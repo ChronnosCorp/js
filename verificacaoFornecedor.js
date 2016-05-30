@@ -158,7 +158,7 @@ function validar33() {
         }
     }
 }
-function validar44() {
+function validar() {
     var codfc =  document.formConsultar22.codfc.value;
 
     if (codfc === "") {
